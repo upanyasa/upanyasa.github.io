@@ -24,4 +24,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help -->
 
-We will soon be posting all our activities on this blog. Keep checking this section. 
+Coming Soon in your neighbourhood! 
+P.S. There needs to be a brewery around.
