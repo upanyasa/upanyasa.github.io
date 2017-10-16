@@ -6,3 +6,20 @@
 <script src="{{ "/js/typeahead.bundle.min.js" | prepend: site.baseurl }} "></script>
 
 <script src="{{ "/js/main.js" | prepend: site.baseurl }} "></script>
+
+
+<script type="text/javascript">
+  var show = false;
+  window.onload = function(){
+    $("#objectives").hide(); 
+  }
+  $("#showObjectives").click(function(){
+    if(show){
+      $("#objectives").hide();
+    }
+    else{
+      $("#objectives").show();
+    }
+    show = !show;
+  })
+</script>

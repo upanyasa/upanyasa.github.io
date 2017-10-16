@@ -2,8 +2,8 @@
 title: Upanyasa
 email: labs.makesense@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Upanyasa is a group of enthusiasts working in areas across arts, humanities, science, technology and mathematics. We would like to think that we are storytellers and ambassadors of science, culture, technology and history. We are currently exploring the influence of Internet of Things, Analytics, Machine Learning and Artificial Intelligence (AI) on diverse disciplines of human interests such as music, education, employment, conservation, life styles and habits of today’s population.
+  We conduct events that share our explorations and findings. These events provide a platform for likeminded individuals from different backgrounds to come together, debate with openness, converge on issues of importance, and take up action for a better future.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://upanyasa.github.io # the base hostname & protocol for your site
